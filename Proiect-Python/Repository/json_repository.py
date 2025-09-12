@@ -24,11 +24,7 @@ class JsonRepository(Repository):
             f.write(jsonpickle.dumps(objects))
 
     def create(self, entity: Entity) -> None:
-        """
-        TODO
-        :param entity:
-        :return:
-        """
+
 
         # self.storage = self.__read_file()
         # super().create(entity)
@@ -44,13 +40,7 @@ class JsonRepository(Repository):
 
     def read(self, id_entity: object = None) -> \
             Type[Union[Optional[Entity], List[Entity]]]:
-        """
-        TODO
-        :param id_entity: id-ul votului
-        :return:
-            - entitatea cu id=id_entity sau None daca id_entity nu e None
-            - lista cu toate entitatile daca id_entity e None
-        """
+
 
         entities = self.__read_file()
         if id_entity:
@@ -62,11 +52,7 @@ class JsonRepository(Repository):
         return list(entities.values())
 
     def update(self, entity: Entity) -> None:
-        """
-        TODO
-        :param entity:
-        :return:
-        """
+
 
         entities = self.__read_file()
         if self.read(entity.id_entity) is None:
@@ -78,11 +64,7 @@ class JsonRepository(Repository):
         self.__write_file(entities)
 
     def delete(self, id_entity: str) -> None:
-        """
-        TODO
-        :param id_entity:
-        :return:
-        """
+
         entities = self.__read_file()
         if self.read(id_entity) is None:
             raise NoSuchIdError(
