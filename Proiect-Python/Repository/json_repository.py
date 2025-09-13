@@ -26,9 +26,6 @@ class JsonRepository(Repository):
     def create(self, entity: Entity) -> None:
 
 
-        # self.storage = self.__read_file()
-        # super().create(entity)
-        # self.__write_file(self.storage)
 
         entities = self.__read_file()
         if self.read(entity.id_entity) is not None:

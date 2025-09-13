@@ -1,10 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\roxan\\Desktop\\Proiecte personale\\Proiect-Python\\",
+  "WorkspaceRootPath": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Desktop\\Proiecte personale\\Proiect-Python\\Domain\\film.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\toaterezervariledintreore.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\toaterezervariledintreore.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\filmecrescatordupanr_rezervari.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\filmecrescatordupanr_rezervari.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\carduricrescatoaredupapct.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\carduricrescatoaredupapct.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\UI\\consola.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UI\\consola.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testrezervarerepository.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\testrezervarerepository.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testfilmservice.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\testfilmservice.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testfilmrepository.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\testfilmrepository.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testcardrepository.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\testcardrepository.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicerezervare.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\servicerezervare.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicefilm.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\servicefilm.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicecardclient.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\servicecardclient.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\repository.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\repository.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\json_repository.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\json_repository.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\exceptions.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\exceptions.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorrezervare.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\validatorrezervare.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorfilm.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\validatorfilm.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorcardclient.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\validatorcardclient.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\rezervare.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\rezervare.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\film.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\film.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\cardclient.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\cardclient.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +95,260 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "toaterezervariledintreore.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\toaterezervariledintreore.py",
+              "RelativeDocumentMoniker": "ViewModel\\toaterezervariledintreore.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\toaterezervariledintreore.py",
+              "RelativeToolTip": "ViewModel\\toaterezervariledintreore.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:48.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "filmecrescatordupanr_rezervari.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\filmecrescatordupanr_rezervari.py",
+              "RelativeDocumentMoniker": "ViewModel\\filmecrescatordupanr_rezervari.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\filmecrescatordupanr_rezervari.py",
+              "RelativeToolTip": "ViewModel\\filmecrescatordupanr_rezervari.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "carduricrescatoaredupapct.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\carduricrescatoaredupapct.py",
+              "RelativeDocumentMoniker": "ViewModel\\carduricrescatoaredupapct.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\ViewModel\\carduricrescatoaredupapct.py",
+              "RelativeToolTip": "ViewModel\\carduricrescatoaredupapct.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:45.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "consola.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\UI\\consola.py",
+              "RelativeDocumentMoniker": "UI\\consola.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\UI\\consola.py",
+              "RelativeToolTip": "UI\\consola.py",
+              "ViewState": "AgIAADsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testrezervarerepository.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testrezervarerepository.py",
+              "RelativeDocumentMoniker": "Teste\\testrezervarerepository.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testrezervarerepository.py",
+              "RelativeToolTip": "Teste\\testrezervarerepository.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "testfilmservice.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testfilmservice.py",
+              "RelativeDocumentMoniker": "Teste\\testfilmservice.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testfilmservice.py",
+              "RelativeToolTip": "Teste\\testfilmservice.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:25.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "testfilmrepository.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testfilmrepository.py",
+              "RelativeDocumentMoniker": "Teste\\testfilmrepository.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testfilmrepository.py",
+              "RelativeToolTip": "Teste\\testfilmrepository.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testcardrepository.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testcardrepository.py",
+              "RelativeDocumentMoniker": "Teste\\testcardrepository.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Teste\\testcardrepository.py",
+              "RelativeToolTip": "Teste\\testcardrepository.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:22.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "servicerezervare.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicerezervare.py",
+              "RelativeDocumentMoniker": "Service\\servicerezervare.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicerezervare.py",
+              "RelativeToolTip": "Service\\servicerezervare.py",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "servicefilm.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicefilm.py",
+              "RelativeDocumentMoniker": "Service\\servicefilm.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicefilm.py",
+              "RelativeToolTip": "Service\\servicefilm.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:07.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "servicecardclient.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicecardclient.py",
+              "RelativeDocumentMoniker": "Service\\servicecardclient.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Service\\servicecardclient.py",
+              "RelativeToolTip": "Service\\servicecardclient.py",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:21:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "repository.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\repository.py",
+              "RelativeDocumentMoniker": "Repository\\repository.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\repository.py",
+              "RelativeToolTip": "Repository\\repository.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "json_repository.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\json_repository.py",
+              "RelativeDocumentMoniker": "Repository\\json_repository.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\json_repository.py",
+              "RelativeToolTip": "Repository\\json_repository.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:44.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "exceptions.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\exceptions.py",
+              "RelativeDocumentMoniker": "Repository\\exceptions.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Repository\\exceptions.py",
+              "RelativeToolTip": "Repository\\exceptions.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:42.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "validatorrezervare.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorrezervare.py",
+              "RelativeDocumentMoniker": "Domain\\validatorrezervare.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorrezervare.py",
+              "RelativeToolTip": "Domain\\validatorrezervare.py",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:35.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "validatorfilm.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorfilm.py",
+              "RelativeDocumentMoniker": "Domain\\validatorfilm.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorfilm.py",
+              "RelativeToolTip": "Domain\\validatorfilm.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "validatorcardclient.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorcardclient.py",
+              "RelativeDocumentMoniker": "Domain\\validatorcardclient.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\validatorcardclient.py",
+              "RelativeToolTip": "Domain\\validatorcardclient.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:24.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "rezervare.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\rezervare.py",
+              "RelativeDocumentMoniker": "Domain\\rezervare.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\rezervare.py",
+              "RelativeToolTip": "Domain\\rezervare.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cardclient.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\cardclient.py",
+              "RelativeDocumentMoniker": "Domain\\cardclient.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\cardclient.py",
+              "RelativeToolTip": "Domain\\cardclient.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-13T16:20:21.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "film.py",
-              "DocumentMoniker": "C:\\Users\\roxan\\Desktop\\Proiecte personale\\Proiect-Python\\Domain\\film.py",
+              "DocumentMoniker": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\film.py",
               "RelativeDocumentMoniker": "Domain\\film.py",
-              "ToolTip": "C:\\Users\\roxan\\Desktop\\Proiecte personale\\Proiect-Python\\Domain\\film.py",
+              "ToolTip": "C:\\Users\\roxan\\Documents\\GitHub\\Proiect-Python\\Proiect-Python\\Domain\\film.py",
               "RelativeToolTip": "Domain\\film.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
               "WhenOpened": "2025-08-22T12:11:28.227Z",
               "EditorCaption": ""
             }

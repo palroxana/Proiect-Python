@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Domain"
+    "\\Domain",
+    "\\Repository",
+    "\\Service",
+    "\\Teste",
+    "\\UI",
+    "\\ViewModel"
   ],
+  "SelectedNode": "\\ViewModel\\toaterezervariledintreore.py",
   "PreviewInSolutionExplorer": false
 }

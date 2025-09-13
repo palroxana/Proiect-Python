@@ -20,8 +20,6 @@ class ValidatorFilm:
         if len(erori) > 0:
             raise KeyError(erori)
 
-    # "numar" verifica
-    # daca stringurile contin doar cifre nu si litere pentru floaturi
     def numar(self, pret: str):
         try:
             float(pret)
